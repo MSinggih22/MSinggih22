@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Singgih</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msinggih22&label=Profile%20views&color=213cc4&style=plastic" alt="msinggih22" /> </p>
 
